@@ -46,8 +46,14 @@ Preparar o Ambiente e Armazenar: Relação a escalabilidade (a quantiade de usu�
 
 Cloud Computing:é modelo que permite acesso sob demanda, via redes de computadores a conjunto compartilhado de recursos computacionais que podem ser rapidamente provisionado e liberado, com o mínimo de esforço administrativo ou interação com o provedor dos serviços. Pública, privada e híbrida 
 
-Capturar a Informação.
+- Capturar, Processar, Modelar e Visualizar
 
-Processar, Modelar e Visualizar.
+Capturar a Informação: Precisamos ddefinir o objetivo de estudo e os dados que precisam ser amazenados. Tais informações podem seer extraídas da internet, das redes sociais e de sensores. Tudo irá para o Data Lake. A melhor forma de capturar os dados é através de API e algumas empresas de midias sociais disponibilização APIs.
+
+Processar, Modelar e Visualizar: Podemos dividir em três pilares, tecnologia de big data, ferramentas de analytics e ferramentas de BI.
+
+Capturar a Informação: Tecnologias > Algumas tecnologias como disco, memória e velocidade tem as seguintes desvangatens como custo de atualização dos equipamentos, escalabilidade limitada. O Hadoop trouxe inovação ao processamento de dados. Ele é um projeto open source da Apache Software Foudation. Ele permite processamento de dados em várias unidades de fisco de forma distribuída, com toleraância a falhas. 
+
+Processar, Modelar e Visualizar: Ferramentas de Analytics e de BI > Sas, R, IBM, Python. Podemos usar Power BI.
 
 Tomar a decisão.
