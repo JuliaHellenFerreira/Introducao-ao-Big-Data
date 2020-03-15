@@ -35,3 +35,19 @@ Valor: Os projetos de Big Data devem gerar valor para as organizações.
 - Cientista de Dados
 
 O profissional cientista de dados toma decisões com base em todas as informações que ele tem em mão. Pode ser em mensagens, rede sociais, vídeos e outros. Ele precisa ter conheciemnto nas seguintes áreas programação, banco de dados, segunraça de informação, tecnologias de big data e modelagem. Em trabalhos em equipe os profissionais que trabalham com ele são especalista em tecnologia, especialista em modelagem e especialista em negócios. 
+
+- Definir, preparar e armazenar 
+
+Podemos dizer que as etapas de um projeto de Big Data são:
+
+Definição do Objetivo: Boa pergunta, propósito, objetivo viável, perguntas frequentes para a equipe de Big Data, valor agregado ao negócio, custo de implatanção do projeto, retorno financeiro e qual o aumento esperado de mercado.
+
+Preparar o Ambiente e Armazenar: Relação a escalabilidade (a quantiade de usuários que acessam o banco de dados) , alta disponibilidade ( acesso a informaççao deve estar sempre disponível e flexibilidade (a forma de armazenamento da informação deve ser flexível para que se possa armazenar dados estruturados e não estruturados que serão processados com a utilização de diversas tecnologias). Além disso, devemos levar em conta: A estrutura de Banco de dados, custo dos equipamentos, custo da equipe de big data, aspectos de segurança da informação, como as informações serão processadas, quais software e aplicativos envolvidos, como os dados serão gerenciados. O ideal é que todas as informações estejam em um único lugar, chamamos de Data Lake. Lá são amezenadas dados brutos. Para criação deste banco de dados devemos ter a equipe de TI, área de modelagem, área de negócios e diretores envolvidos. As formas que os dados podem ser armazenados são: orientada a chave-valor, orientado a colunas, orientado a documentos, orientado a grafos.
+
+Cloud Computing:é modelo que permite acesso sob demanda, via redes de computadores a conjunto compartilhado de recursos computacionais que podem ser rapidamente provisionado e liberado, com o mínimo de esforço administrativo ou interação com o provedor dos serviços. Pública, privada e híbrida 
+
+Capturar a Informação.
+
+Processar, Modelar e Visualizar.
+
+Tomar a decisão.
