@@ -26,11 +26,12 @@ Variedade: Hoje 70% dos dados não são estruturados.
 
 Veracidade: Ter certeza que os dados são confiavéis e a fonte segura.
 
-Visualização: fazer uma análise gráfica (Power BI ).
+Visualização: fazer uma análise gráfica ( Power BI ).
 
 Vunerabilidade: Investir em segurança para não roubarem dados.
 
 Valor: Os projetos de Big Data devem gerar valor para as organizações.
 
+- Cientista de Dados
 
-
+O profissional cientista de dados toma decisões com base em todas as informações que ele tem em mão. Pode ser em mensagens, rede sociais, vídeos e outros. Ele precisa ter conheciemnto nas seguintes áreas programação, banco de dados, segunraça de informação, tecnologias de big data e modelagem. Em trabalhos em equipe os profissionais que trabalham com ele são especalista em tecnologia, especialista em modelagem e especialista em negócios. 
