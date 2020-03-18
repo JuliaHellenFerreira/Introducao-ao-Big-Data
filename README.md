@@ -57,3 +57,9 @@ Capturar a Informação: Tecnologias > Algumas tecnologias como disco, memória 
 Processar, Modelar e Visualizar: Ferramentas de Analytics e de BI > Sas, R, IBM, Python. Podemos usar Power BI.
 
 Tomar a decisão.
+
+## Aula 2: Aplicações
+
+- Técnicas de Previções
+
+Os modelos de previsão de vendas podem ser feitas utilizadas com ferrementas Business Intelligence ( BI ). Assim conseguimos, ter uma noção por região, ano e produto. Através do BI, podemos detectar sazonalidades, tendências, e comportamento do padrão do consumidor. Podemos gerar gráficos, dashbords e relátorios. Com essas ferramentas teremos uma ideia do passado e do futuro de uma empresa, por exemplo. O objetivo de técncas de projeção é projetar uma váriavel de interesse em funçaõ de várias variavéis auxiliares. Os dados utilizados podem ser estruturados ou não esruturados. Dados fora do padrão recebem o nome de outlier.
