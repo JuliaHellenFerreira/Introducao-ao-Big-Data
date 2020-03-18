@@ -63,3 +63,13 @@ Tomar a decisão.
 - Técnicas de Previções
 
 Os modelos de previsão de vendas podem ser feitas utilizadas com ferrementas Business Intelligence ( BI ). Assim conseguimos, ter uma noção por região, ano e produto. Através do BI, podemos detectar sazonalidades, tendências, e comportamento do padrão do consumidor. Podemos gerar gráficos, dashbords e relátorios. Com essas ferramentas teremos uma ideia do passado e do futuro de uma empresa, por exemplo. O objetivo de técncas de projeção é projetar uma váriavel de interesse em funçaõ de várias variavéis auxiliares. Os dados utilizados podem ser estruturados ou não esruturados. Dados fora do padrão recebem o nome de outlier.
+
+- Fidelização de Cliente
+
+A segmentação de cliente é quando cada grupo dentro dde uma empresa é responsável por realizar uma ação. Podemos fazer por meio do comportamento de compras ou da utilização de produtos e serviços. As informações podem ser obtidas através das redes sociais, fotos do facebook e etc. Com base nisso saberemos o perfil do cliente ( classe social, gostos e hábitos de consumo ). Com base em tudo isso, podemos sugririr produtos ou servições para o cliente. 
+
+Previsão de Churn: objetivo de detectar os clientes com alta protensão a deixar de consumir produtos ou cancelar serviços. Deve identificqar tais clientes e evitar isto.
+
+Scoragem de Cliente: Mapear melhores clientes para convencer o lvliente a ter fidelidade. Assim, não perdemos clientes e tornamos fiel a empresa.
+
+Cross-Selling: Venda casada e um método para conseguir mais vendas. Tudo isto pode ser feito através de uma análise de cesto de compras.
