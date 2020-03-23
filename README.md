@@ -78,4 +78,7 @@ Cross-Selling: Venda casada e um método para conseguir mais vendas. Tudo isto p
 
 Detecção de Fraude: Reconhecimento facial, algoritmo de classificação ( ver a rota de um veículo antes do sinistro ), internet banking, análise de imagem (buracos, comércios ilegais, pessoas morando em ruas ), câmeras para encontrar criminosos, etc.
 
+- Aplicações no Varejo
+
+Podemos usar o Big Data para sugerir produtos ou serviços com bese no histórico do cliente, desenvolver propaganda personalizada pelos dados gerados por um celular. Com a geolocalização podemos coisas assim, por exemplo. 
 
