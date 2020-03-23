@@ -73,3 +73,9 @@ Previsão de Churn: objetivo de detectar os clientes com alta protensão a deixa
 Scoragem de Cliente: Mapear melhores clientes para convencer o lvliente a ter fidelidade. Assim, não perdemos clientes e tornamos fiel a empresa.
 
 Cross-Selling: Venda casada e um método para conseguir mais vendas. Tudo isto pode ser feito através de uma análise de cesto de compras.
+
+- Segurança 
+
+Detecção de Fraude: Reconhecimento facial, algoritmo de classificação ( ver a rota de um veículo antes do sinistro ), internet banking, análise de imagem (buracos, comércios ilegais, pessoas morando em ruas ), câmeras para encontrar criminosos, etc.
+
+
