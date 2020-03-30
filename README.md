@@ -82,3 +82,24 @@ Detecção de Fraude: Reconhecimento facial, algoritmo de classificação ( ver 
 
 Podemos usar o Big Data para sugerir produtos ou serviços com bese no histórico do cliente, desenvolver propaganda personalizada pelos dados gerados por um celular. Com a geolocalização podemos coisas assim, por exemplo. 
 
+## Aula 03: Internet das coisas, Análise de Rede Social e Análise.
+
+- A Internet das Coisas
+
+Temos hoje objetos que são ligados a internet como carros, casas, celulares e sensores. Com isso o cliente terá acesso a várias informações do seu objeto.
+
+- Como facilitar a vida usando a Internet das Coisas?
+
+O crachá inteligente pode ser usado para avisar se as mãos foram lavadas, se tomou os remédios e localização de pessoas. Podemos traçar um perfil do cliente, podemos aumentar a produtividade na agricultura.
+
+- Aplicações em RH
+
+Temos o crachá inteligente, leitor biométrico, sistema facial, rastro digital, análise de currículo e prever se o funcionário será o ideal para vaga.
+
+- Análise de Rede Social e Análise de Texto
+
+Análise de Rede Social: pode ser utilizada para entender os elementos de uma rede. O estudo ddos relacionamentos proporciona a criação de comunidades. Dentro de uma comunidade os elementos estão ligados entre si. Um grafo é uma representação das ligções entre os elementos. Eles estão interligados por caracteristicas.
+Podemos usar tex maning para dirigir um cliente a um determinado setor, encontrar plagio e identificar o conteúdo de um assunto.
+
+
+
